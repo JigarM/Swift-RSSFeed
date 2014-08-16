@@ -25,15 +25,15 @@ This Sample Project includes :
 
 Appicon :
 
-![](http://i1282.photobucket.com/albums/a534/jigarm_0809/iOSSimulatorScreenShot06-Aug-201493049pm_zpsdce73bf0.png)
+![](http://i1282.photobucket.com/albums/a534/jigarm_0809/f6a397e5-006c-43a1-8732-84b00b4acf6b_zps79678c51.png)
 
 RSSFeed UITableView :
 
-![](http://i1282.photobucket.com/albums/a534/jigarm_0809/iOSSimulatorScreenShot06-Aug-201493043pm_zpsdfe6345b.png)
+![](http://i1282.photobucket.com/albums/a534/jigarm_0809/669be45b-6663-48d2-9ef4-325360029203_zpsb764b963.png)
 
 RSSFeed Detailview : 
 
-![](http://i1282.photobucket.com/albums/a534/jigarm_0809/iOSSimulatorScreenShot06-Aug-201494224pm_zps81ba982d.png)
+![](http://i1282.photobucket.com/albums/a534/jigarm_0809/93f59819-ebcd-4d3c-abab-858ba9da4eeb_zps2729d13c.png)
 
 
 
