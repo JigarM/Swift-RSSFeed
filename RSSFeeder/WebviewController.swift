@@ -10,8 +10,8 @@ import UIKit
 
 class WebviewController: UIViewController, UIWebViewDelegate {
 
-    @IBOutlet var webview : UIWebView
-    @IBOutlet var activity : UIActivityIndicatorView
+    @IBOutlet var webview : UIWebView!
+    @IBOutlet var activity : UIActivityIndicatorView!
     var url : String?
     var Headline : String?
     

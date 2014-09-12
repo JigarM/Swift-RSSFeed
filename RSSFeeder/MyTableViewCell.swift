@@ -9,7 +9,7 @@
 import UIKit
 
 class MyTableViewCell: UITableViewCell {
-    @IBOutlet var img : UIImageView
-    @IBOutlet var FeedLbl : UILabel
-    @IBOutlet var timestamp : UILabel
+    @IBOutlet var img : UIImageView!
+    @IBOutlet var FeedLbl : UILabel!
+    @IBOutlet var timestamp : UILabel!
 }

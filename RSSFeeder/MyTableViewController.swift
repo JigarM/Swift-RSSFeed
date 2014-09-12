@@ -10,7 +10,7 @@ import UIKit
 
 class MyTableViewController: UITableViewController, MWFeedParserDelegate {
     
-    var items = MWFeedItem[]()
+    var items = [MWFeedItem]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -31,7 +31,7 @@ class MyTableViewController: UITableViewController, MWFeedParserDelegate {
     
     func feedParserDidStart(parser: MWFeedParser) {
         UIApplication.sharedApplication().networkActivityIndicatorVisible = true;
-        self.items = MWFeedItem[]()
+        self.items = [MWFeedItem]()
     }
     
     func feedParserDidFinish(parser: MWFeedParser) {
