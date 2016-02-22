@@ -4,11 +4,11 @@ Swift-RSSFeed
 A Sample RSS reader in Swift
 
 
-Cocoapods with Swift
+CocoaPods with Swift
 =======================
-How to integrate Cocoapods into Swift project ????????
+How to integrate CocoaPods into Swift project ????????
 
-Please Checked My blogpost Related with **Cocoapods + Swift**
+Please Checked My blogpost Related with **CocoaPods + Swift**
 + https://medium.com/@jigarm/cocoapods-with-swift-93bd373a7111
 
 This Sample Project includes : 
